@@ -1,0 +1,5 @@
+Lokasi File 
+
+1. LaporanController.php ditimpakan di C:\AppServ\www\perizinan\public_html\main\backend\controllers
+
+2. AllSearch.php ditimpakan di C:\AppServ\www\perizinan\public_html\main\backend\models
